@@ -1,0 +1,2 @@
+This is Nikita’s first git project!
+hello guys
